@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently working on my degree in **[Engineering Mathematics and Computational Science](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-teknisk-matematik)**
+- 🎓 I’m currently working on my degree in **[Applied Mathematics and Computational Science](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-teknisk-matematik)**
 
 - 🎓 I’m simultaneously earning a degree in **Computer Science**
 
-- 🌱 I’m currently learning **Applied Mathematics and Computer Science.**
+- 🌱 I’m currently learning **Real Analysis and Optimization.**
 
 - 😍 I’m inspired by **Elegant problem solving**
 
@@ -22,13 +22,15 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://img.icons8.com/color/48/c-sharp-logo-2.png)"/> </a>
     <a href="#"> <img src="https://img.icons8.com/fluency/2x/matlab.png" height="48" width="48/> </a>
 </p>
 
 
 
 ## Connect with me:
+        
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/david-alkass/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
