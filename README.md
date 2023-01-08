@@ -27,11 +27,9 @@
     <a href="#"> <img src="https://img.icons8.com/fluency/2x/matlab.png" height="48" width="48/> </a>
 </p>
 
-
-
+<br/><br/>
 ## Connect with me:
         
 <p align="left">
-## Connect with me:
 <a href = "https://www.linkedin.com/in/david-alkass/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
