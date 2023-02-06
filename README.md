@@ -27,6 +27,7 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png" </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.icons8.com/color/48/latex.png" </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" </a>
 </p>
 
 
