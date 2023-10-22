@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **Davidalkass1997@gmail.com**
 
-- ⚡ Fun fact **I play video games and paint.**
 
 ## 🚀 Languages and Tools:
 
