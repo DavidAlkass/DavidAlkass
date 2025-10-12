@@ -6,11 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently working on my degree in **[Applied Mathematics and Computational Science](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-teknisk-matematik)**
-
-- 🎓 I’m simultaneously earning a degree in **Computer Science**
-
-- 🌱 I’m currently learning **Real Analysis and Optimization.**
 
 - 😍 I’m inspired by **Elegant problem solving**
 
