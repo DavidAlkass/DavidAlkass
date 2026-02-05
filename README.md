@@ -7,8 +7,6 @@
 ## 🙋‍♂️ About Me
 
 
-- 😍 I’m inspired by **Elegant problem solving**
-
 - 📫 How to reach me **Davidalkass1997@gmail.com**
 
 
